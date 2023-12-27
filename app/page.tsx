@@ -15,7 +15,7 @@ export default function Home() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            1234 By{" "}
+            By{' '}
             <Image
               src="/vercel.svg"
               alt="Vercel Logo"
@@ -24,6 +24,7 @@ export default function Home() {
               height={24}
               priority
             />
+            main에서 수정
           </a>
         </div>
       </div>
