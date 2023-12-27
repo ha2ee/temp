@@ -15,7 +15,7 @@ export default function Home() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            By feat2에서 수정
+            By feat2에서 수정 feat3에서 수정
             <Image
               src="/vercel.svg"
               alt="Vercel Logo"
