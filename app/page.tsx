@@ -24,7 +24,7 @@ export default function Home() {
               height={24}
               priority
             />
-            main에서 수정
+            main에서 수정1234
           </a>
         </div>
       </div>
